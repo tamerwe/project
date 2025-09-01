@@ -17,3 +17,4 @@ This analysis was encapsulated in two interactive Tableau dashboards: A customer
 The cleaned Excel file, which contains notes for how the clean-up was performed, can be found **here**.
 
 # Data Structure
+![image alt](https://github.com/tamerwe/project/blob/main/dataStructure.png?raw=true)
