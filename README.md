@@ -22,3 +22,7 @@ The dataset provided by TechPlay consists of an **Orders table** containing _218
 ‎ 
 ![image alt](https://github.com/tamerwe/project/blob/main/dataStructure.png?raw=true)\
 Rigorous quality checks were conducted on the data before beginning the analysis, as documented in the prior **Excel Link**
+
+# Executive Summary
+### Overview of Findings
+![image_alt](https://github.com/tamerwe/project/blob/main/SalesDashboard.png?raw=true)
