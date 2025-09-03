@@ -52,4 +52,4 @@ Below are the Tableau dashboards for Sales and Customers, both can be found **he
 **PUT IMAGE HERE**
 + 90.5% of all purchases were made through the company's website rather than its mobile app, indicating that the app is underutilized.
 **PUT IMAGE HERE**
-+ There's no wide margin between the values of the top 20 customers, indicating a lack of dependency on any 'Key' customers whose loss would otherwise impacted the profits.
++ There's no wide margin between the values of the top 20 customers, indicating a lack of dependency on any 'Key' customers whose loss would otherwise impact the profits.
