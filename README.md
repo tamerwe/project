@@ -50,3 +50,6 @@ Below are the Tableau dashboards for Sales and Customers, both can be found **he
 + Email marketing, having the lowest AOV, is the most popular channel for selling the Nintendo Switch.
 + The 24in 4k gaming monitor is consistently the second best seller in each of the marketing channels; its status as the company's most profitable product suggests that this balanced exposure between marketing channels is a factor in its success.
 **PUT IMAGE HERE**
++ 90.5% of all purchases were made through the company's website rather than its mobile app, indicating that the app is underutilized.
+**PUT IMAGE HERE**
++ There's no wide margin between the values of the top 20 customers, indicating a lack of dependency on any 'Key' customers whose loss would otherwise impacted the profits.
