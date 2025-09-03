@@ -45,11 +45,11 @@ Below are the Tableau dashboards for Sales and Customers, both can be found **he
 + In Comparison, the Latin America(5.6%) and Asia-Pacific(12.3%) regions lag behind.
 **PUT IMAGE HERE**
 ### Customer and Marketing Analysis
-+ TechPlay has 19,851 unique customers, with only 472 having ordered more than once, resulting in a very low customer customer retention of 2.4%.
++ TechPlay has 19,851 unique customers, with only 472 having ordered more than once, resulting in a very low customer retention of 2.4%.
 + Among the channels used for marketing, direct and affiliate yield the highest Average-Order-Value at $300~, and are the most popular channels for selling expensive products such as the Playstation 5 Bundle.
 + Email marketing, having the lowest AOV, is the most popular channel for selling the Nintendo Switch.
-+ The 24in 4k gaming monitor is consistently the second best seller in each of the marketing channels; its status as the company's most profitable product suggests that this balanced exposure between marketing channels is a factor in its success.
++ The 24in 4k gaming monitor is consistently the second most profitable in each of the marketing channels, and is the second best seller in all categories except E-mail. Its status as the company's overall most profitable product suggests that this balanced exposure between marketing channels is a factor in its success.
 **PUT IMAGE HERE**
-+ 90.5% of all purchases were made through the company's website rather than its mobile app, indicating that the app is underutilized.
++ 90.5% of all purchases were made through the company's website rather than its mobile app, signaling a severe underutilization of the latter.
 **PUT IMAGE HERE**
 + There's no wide margin between the values of the top 20 customers, indicating a lack of dependency on any 'Key' customers whose loss would otherwise impact the profits.
