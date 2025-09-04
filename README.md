@@ -13,8 +13,10 @@ The project seeks the root cause of the decline alongside any weaknesses by prov
 + **Customer Analysis** To Assess customer base and its impact on sales
 + **Product Analysis** To understand changes in performance and how products compare with each other.
 
+
 This analysis was encapsulated in two interactive Tableau dashboards: A customer dashboard, and a sales dashboard, which can be found **here**.\
 The cleaned Excel file, which contains documentation for the cleaning process, can be found **here**.
+
 
 # Data Structure
 The dataset provided by TechPlay consists of an **Orders table** containing _21864_ rows and a **region table** containing _192_ rows\
@@ -25,32 +27,33 @@ Rigorous quality checks were conducted on the data before beginning the analysis
 
 # Executive Summary
 ### Overview of Findings
-TechPlay's revenue noticeably surges at the start of 2020 and continues rising until reaching its peak in december, where it then sharply declines by the start of 2021. The timing of the decline, alongside the abnormal growth the company had seen in 2020 (With a **164%** increase in revenue and **30%** increase in AOV), suggests that both the peak and decline were broadly caused by the covid's impact on the market, with the decline marking a return to normalcy after the pandemic. There are, however, other factors notable factors and areas of improvement that the following sections will explore.
+**TechPlay's revenue noticeably surges at the start of 2020 and continues rising until reaching its peak in december, where it then sharply declines by the start of 2021**. The timing of the decline, alongside the abnormal growth the company had seen in 2020 (With a **164%** increase in revenue and **30%** increase in AOV), suggests that both the peak and decline were broadly caused by the covid's impact on the market, with the decline marking a return to normalcy after the pandemic. There are, however, other factors notable factors and areas of improvement that the following sections will explore.
 
-Below are the Tableau dashboards for Sales and Customers, both can be found **here**
+_Below are the Tableau dashboards for Sales and Customers, both can be found **here**_
 ![image_alt](https://github.com/tamerwe/project/blob/main/SalesDashboard.png?raw=true)
 ![image_alt](https://github.com/tamerwe/project/blob/main/CustomerDashboard.png?raw=true)
 
 ### Sales Analysis
-+ Sales periodically spike in September and December, matching with the normal surges in sales associated with seasonality like Back-To-School (September) and Holiday season (December). Sales Peaked in December 2020, with $549,435 in revenue from 1,671 orders, compounding the seasonality with the impact of covid.
-+ Sales sharply declined in January 2021 in response to the end of the holiday season and the start of the market returning to pre-pandemic levels, which is natural after the abnormal spike preceeding it.
++ **Sales periodically spike in September and December, matching with the normal surges in sales associated with seasonality** like Back-To-School (September) and Holiday season (December). Sales Peaked in December 2020, with $549,435 in revenue from 1,671 orders, compounding the seasonality with the impact of covid.
++ **Sales sharply declined in January 2021 in response to the end of the holiday season and the start of the market returning to pre-pandemic levels**, which is natural after the abnormal spike preceeding it.
 + The decline significantly slowed down in the following month, but in spite the decline, revenue for February 2021 is 97% higher than its pre-pandemic level in February 2019.
 ### Product Analysis
-+ The product line's top 3 items (#1. 27k 4k gaming monitor, #2. Playstation 5 bundle, #3. Nintendo Switch) significantly outperform the rest of the items in revenue, meaning that revenue depends on these 'Superstar' and would fluctuate with their change.
-+ In spite of being #2 in revenues, the Playstation 5 bundle is #5 in quantity sold, meaning that its profit is driven by its high price rather than the volume of sales.
-+ Inversely, the Nintendo Switch outperforms the other products by a wide margin in the volume of sales, yet is only #3 in revenue, meaning it derives its value from the high volume of sales rather than price.
++ **The product line's top 3 items (#1. 27k 4k gaming monitor, #2. Playstation 5 bundle, #3. Nintendo Switch) significantly outperform the rest of the items in revenue**, meaning that revenue depends on these 'Superstar' and would fluctuate with their change.
++ **In spite of being #2 in revenues, the Playstation 5 bundle is #5 in quantity sold**, meaning that its profit is driven by its high price rather than the volume of sales.
++ **Inversely, the Nintendo Switch outperforms the other products by a wide margin in the volume of sales, yet is only #3 in revenue**, meaning it derives its value from the high volume of sales rather than price.
 ### Region Analysis
-+ The United States leads all other countries as the most lucrative market in terms of both revenue and volume of customers, generating 70% of all revenue and containing 71.8% of all customers in 2020.
-+ Europe, and particularly the United Kingdom make up the second largest market
-+ In Comparison, the Latin America(5.6%) and Asia-Pacific(12.3%) regions lag behind.
++ **The United States greatly leads all other countries as the most lucrative market in terms of both revenue and volume of customers**, generating 70% of all revenue and containing 71.8% of all customers in 2020.
++ **Europe, and particularly the United Kingdom** make up the second largest market
++ **In Comparison,** the Latin America(5.6%) and Asia-Pacific(12.3%) regions lag behind.
 ![image_alt](https://github.com/tamerwe/project/blob/main/RegionSales.png?raw=true)
 ### Customer and Marketing Analysis
-+ **TechPlay has 19,851 unique customers, with only 472 having ordered more than once**, resulting in a very low customer retention of 2.4%.
-+** 79.7% of all orders came direct marketing**, with all the other channels significantly lagging behind.
-+ **Among the channels used for marketing, direct and affiliate yield the highest Average-Order-Value at $300~**, and are the most popular channels for selling expensive products such as the Playstation 5 Bundle.
-+ Email marketing, having the lowest AOV, is the most popular channel for selling the Nintendo Switch.
-+ The 24in 4k gaming monitor is consistently the second most profitable in each of the marketing channels, and is the second best seller in all categories except E-mail. Its status as the company's overall most profitable product suggests that this balanced exposure between marketing channels is a factor in its success.
-**PUT IMAGE HERE**
-+ 90.5% of all purchases were made through the company's website rather than its mobile app, signaling a severe underutilization of the latter.
++ **TechPlay has 19,851 unique customers, with only 472 having ordered more than once**, resulting in a very low customer retention of _**2.4%.**_
++ **79.7% of all orders came direct marketing**, with all the other channels significantly lagging behind.
++ **Among the channels used for marketing, direct and affiliate yield the highest Average-Order-Value at $300~**, with most of the revenue generated by them stemming from premium products.
++ **The 24in 4k gaming monitor is consistently the second best seller in each of the marketing channels**, And consistently ranks between first and second in revenue.
+![image_alt](https://github.com/tamerwe/project/blob/main/top3.png?raw=true)
++ **90.5% of all purchases were made through the company's website rather than its mobile app**, signaling a severe underutilization of the latter.
 ![image_alt](https://github.com/tamerwe/project/blob/main/PurchasePlatform.png?raw=true)
-+ There's no wide margin between the values of the top 20 customers, indicating a lack of dependency on any 'Key' customers whose loss would otherwise impact the profits.
++ **There's no wide margin between the values of the top 20 customers**. Since there's no depency on these top customers, they weren't a factor in the 2021 sales decline.
+
+# Recommendations
