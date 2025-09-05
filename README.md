@@ -57,3 +57,11 @@ _Below are the Tableau dashboards for Sales and Customers, both can be found **h
 + **There's no wide margin between the values of the top 20 customers**. Since there's no depency on these top customers, they weren't a factor in the 2021 sales decline.
 
 # Recommendations
++ Collaberate with key departments to re-adjust to pre-covid levels of opertaions
+  - The operations department: manage inventory efficiently and prevent over-stocking as demand decreases after the pandemic
+  - The finance department: forecast appropriate budgets that keep reduced revenues in mind.
++ TechPlay's mobile app - along with every marketing channel except direct marketing, is severely underutilized; work closely with the marketing department to increase exposure to these channels
++ We've been historically unable to maintain customer retention, with very little of the customers gained during the 2020 covid spike staying in 2021. Cooperate with the customer service department to provide quality experiences that convert one-time buyers into loyal customers, and work with the marketing department to provide deals that appeal to promotion-driven customers who'd otherwise not return.
++ Work with the product department to re-evaluate underperforming products such as the newly introduced Dell gaming mouse, which only made .73% of the company's revenue during 2020, and the Acer Nitro V gaming laptop, which has failed to ever make more than 2% of the company's total revenue through the 3 years it has been in stock.
++ TechPlay made 84.8% of all revenue from only 3 out of their 8 products. The risk of sales fluctuating if any change were to happen to these products is exacerbated by technology's short life span caused by rapid innovation. Work with the risk management department and the product department to lessen the impact the top 3 items have on revenue, as well to achieve balance between the value of different items in the product line.
++ Despite being international, TechPlay is heavily US-centric in both demographic and profit. Investing more heavily into the European market - where it has the best chance of succeeding due to the pre-existing customer base present - would be an opportunity to both reduce the risks associated with relying too much on one region, as well as capturing a promising consumer base.
