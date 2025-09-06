@@ -19,7 +19,7 @@ The project seeks the root cause of the decline alongside any weaknesses by prov
 + **Marketing Analysis** To determine if products are given adequate exposure or if there are untapped opportunities.
 
 
-This analysis was visualized with two interactive Tableau dashboards: A customer dashboard, and a sales dashboard, which can be viewed [here](https://public.tableau.com/views/PortfolioProject1_17571626103620/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).\
+This analysis was visualized with two interactive Tableau dashboards: A customer dashboard, and a sales dashboard, which can be viewed [here](https://public.tableau.com/views/PortfolioProject1_17571626103620/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 The cleaned Excel file, which contains documentation for the cleaning process, can be downloaded [here](https://github.com/tamerwe/project/blob/cf038a9cd5d09189110d9372e74a2ad2c07033e4/Techplay-Order-Data-Cleaned.xlsx).
 
 
@@ -28,10 +28,10 @@ The dataset provided by TechPlay consists of an **Orders table** containing _218
 
 ‎ 
 ‎ 
-![image alt](https://github.com/tamerwe/project/blob/main/dataStructure.png?raw=true)\
+![image alt](https://github.com/tamerwe/project/blob/main/dataStructure.png?raw=true)
 
 Rigorous quality checks were conducted on the data before beginning the analysis, as documented in the prior [Excel File](https://github.com/tamerwe/project/blob/cf038a9cd5d09189110d9372e74a2ad2c07033e4/Techplay-Order-Data-Cleaned.xlsx).
-.
+
 
 # Executive Summary
 ### Overview of Findings
