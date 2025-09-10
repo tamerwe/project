@@ -45,7 +45,7 @@ _Below are the Tableau dashboards for Sales and Customers, both can be found **h
 ### Sales Analysis
 + **Sales periodically spike in September and December, matching with the normal surges in sales associated with seasonality** like Back-To-School (September) and Holiday season (December). Sales Peaked in December 2020, with $549,435 in revenue from 1,671 orders, compounding the seasonality with the surge of sales resulting from covid.
   
-+ **Sales sharply declined in January 2021 in response to the end of the holiday season and the start of the market returning to pre-pandemic levels**, which is natural after the abnormal spike preceeding it.
++ **Sales sharply declined in January 2021 in response to the end of the holiday season and the start of the market returning to pre-pandemic levels**, which is natural after the abnormal spike preceding it.
   
 + The decline significantly slowed down in the following month, but in spite the decline, revenue for February 2021 is **97% higher** than its pre-pandemic level in February 2019.
 ### Product Analysis
@@ -77,16 +77,16 @@ _Below are the Tableau dashboards for Sales and Customers, both can be found **h
 + **90.5% of all purchases were made through the company's website rather than its mobile app**, exposing a severe underutilization of the latter.
   
 ![image_alt](https://github.com/tamerwe/project/blob/main/PurchasePlatform.png?raw=true)
-+ **There's no wide margin between the values of the top 20 customers**. Since there's no depency on these top customers, they weren't a factor in the 2021 sales decline.
++ **There's no wide margin between the values of the top 20 customers**. Since there's no dependency on these top customers, they weren't a factor in the 2021 sales decline.
 
 # Recommendations
-+ Collaberate with key departments to re-adjust to pre-covid levels of opertaions.
++ Collaborate with key departments to re-adjust to pre-covid levels of operations.
   - **The operations department:** manage inventory efficiently and prevent over-stocking as demand decreases after the pandemic
   - **The finance department:** forecast appropriate budgets that keep reduced revenues in mind.
     
 + TechPlay's mobile app - along with every marketing channel except direct marketing, **is severely underutilized; work closely with the marketing department to increase exposure to these channels**.
   
-+ We've been historically **unable to maintain customer retention**, with very little of the customers gained during the 2020 covid spike staying in 2021. Cooperate with the **customer service department to provide quality experiences that convert one-time buyers into loyal customers**, and work with the **marketing department to provide deals that appeal to promotion-driven customers who otherwise wouldn't return**.
++ Historically, we've been **unable to maintain customer retention**, with very little of the customers gained during the 2020 covid spike staying in 2021. Cooperate with the **customer service department to provide quality experiences that convert one-time buyers into loyal customers**, and work with the **marketing department to provide deals that appeal to promotion-driven customers who otherwise wouldn't return**.
 + **Re-evaluate underperforming products** with the product department, such as the newly introduced **Dell gaming mouse, which only made .73% of the company's revenue during 2020**, and the **Acer Nitro V gaming laptop, which has failed to ever make more than 2% of the company's total revenue** through the 3 years it has been in stock.
   
 + TechPlay made **84.8% of all revenue from only 3 out of their 8 products**. The risk of sales fluctuating if any change were to happen to these products is exacerbated by technology's short life span caused by rapid innovation.** Work with the risk management department and the product department to lessen the impact** the top 3 items have on revenue, as well to achieve balance between the value of different items in the product line.
