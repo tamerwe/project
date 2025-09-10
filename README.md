@@ -38,7 +38,7 @@ Rigorous quality checks were conducted on the data before beginning the analysis
 ### Overview of Findings
 **TechPlay's revenue noticeably surges at the start of 2020 and continues rising until reaching its peak in december, where it then sharply declines by the start of 2021**. The timing of the decline, alongside the abnormal growth the company saw in 2020 (With a **164%** increase in revenue and **30%** increase in AOV), suggests that both the peak and decline were broadly caused by the covid's impact on the market, with the decline marking a return to normalcy after the pandemic. There are, however, other notable factors and areas of improvement that the following sections will explore.
 
-_Below are the Tableau dashboards for Sales and Customers, both can be found **here**._
+_Below are the Tableau dashboards for Sales and Customers, both can be found [here](https://public.tableau.com/views/PortfolioProject1_17571626103620/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)._
 ![image_alt](https://github.com/tamerwe/project/blob/main/SalesDashboard.png?raw=true)
 ![image_alt](https://github.com/tamerwe/project/blob/main/CustomerDashboard.png?raw=true)
 
